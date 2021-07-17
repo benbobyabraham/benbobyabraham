@@ -19,12 +19,12 @@
  
 ---
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghaiyur&show_icons=true)
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benbobyabraham&show_icons=true)
 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghaiyur&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benbobyabraham&layout=compact&show_icons=true)
 
 
 ---

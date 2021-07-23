@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on something _AWESOME_
 - 🌱 I'm currently learning REACT and DJANGO -->
 - 📫 Reach me at benbobyabraham@gmail.com
-- 📍 I am located in Bangalore
  
 ---
 

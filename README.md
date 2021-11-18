@@ -18,7 +18,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{Ghaiyur}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{benbobyabraham}/count.svg)
  
 ---
 

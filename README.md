@@ -18,7 +18,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{deekshith-hari}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Ghaiyur}/count.svg)
  
 ---
 

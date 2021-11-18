@@ -18,7 +18,7 @@
 
 ---
 
-<div align="center">![Visitor Count](https://profile-counter.glitch.me/{benbobyabraham}/count.svg)</div>
+<div style="margin:auto;">![Visitor Count](https://profile-counter.glitch.me/{benbobyabraham}/count.svg)</div>
  
 ---
 

@@ -15,6 +15,10 @@
 - 🔭 I’m currently working on something _AWESOME_
 - 🌱 I'm currently learning REACT and DJANGO -->
 - 📫 Reach me at benbobyabraham@gmail.com or +91-8547197319
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/{deekshith-hari}/count.svg)
  
 ---
 

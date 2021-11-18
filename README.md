@@ -18,7 +18,9 @@
 
 ---
 
-You are the ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=benbobyabraham) !
+
+![Visitor Count](https://profile-counter.glitch.me/{benbobyabraham}/count.svg)
+
  
 ---
 
@@ -37,6 +39,6 @@ You are the ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=benbobyabr
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{benbobyabraham}/count.svg)
+You are the ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=benbobyabraham) !
 
                                

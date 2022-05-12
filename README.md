@@ -38,7 +38,7 @@
 
 You are the ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=benbobyabraham) !
 
-![](https://drive.google.com/file/d/1AZFJVFhiFwSzf2eImixZFWyOwouA-PjW/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1AZFJVFhiFwSzf2eImixZFWyOwouA-PjW/view?usp=sharing" width="60">
 
 <!--                           
 

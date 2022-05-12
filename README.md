@@ -39,7 +39,7 @@
 You are the ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=benbobyabraham) !
 
 <img src="https://drive.google.com/file/d/1AZFJVFhiFwSzf2eImixZFWyOwouA-PjW/view" width="60">
-![Alt text](https://drive.google.com/file/d/1AZFJVFhiFwSzf2eImixZFWyOwouA-PjW/view)
+![Alt text](https://github.com/benbobyabraham/benbobyabraham/blob/main/gitcommit.png)
 <!--                           
 
 ![Welcome to the official GitHub profile of @benbalter](https://user-images.githubusercontent.co    m/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)

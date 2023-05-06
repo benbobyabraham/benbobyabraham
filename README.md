@@ -1,10 +1,12 @@
+<a href="https://benboby.com/" target="_blank" rel="noreferrer">
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
+</a>
 
 
 
-- 🔭 I’m currently working on Machine Learning 
-- 🌱 I’m currently learning Web Development in REACT and DJANGO
+- 🔭 I’m currently working on Machine Learning , and Big data analysis, also DJANGO AND REACT
+- 🌱 I’m currently learning application developement in FLUTTER
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,6 +16,7 @@
 - 🔭 I’m currently working on something _AWESOME_
 - 🌱 I'm currently learning REACT and DJANGO -->
 - 📫 Reach me at benbobyabraham@gmail.com or +91-8547197319
+- 📍 I'm located in Bangalore
 
 ---
 
@@ -39,7 +42,7 @@
 You are the ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=benbobyabraham) !
 
 
-![Ben git commits](./gitcommit.png)
+<!-- ![Ben git commits](./gitcommit.png) -->
 
 
 

@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ben</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://benboby.com/" target="_blank" rel="noreferrer">Ben Boby</a></h1>
 <h3 align="center">A passionate Data Scientist.</h3>
 
-<a href="https://benboby.com/" target="_blank" rel="noreferrer">https://benboby.com/</a>
 
 - 🔭 I’m currently working on Machine Learning , and Big data analysis, also DJANGO AND REACT
 - 🌱 I’m currently learning application developement in FLUTTER

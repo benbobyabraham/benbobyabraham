@@ -1,7 +1,6 @@
-<a href="https://benboby.com/" target="_blank" rel="noreferrer">
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
-</a>
+<a href="https://benboby.com/" target="_blank" rel="noreferrer"> PERSONAL WEBSITE </a>
 
 
 

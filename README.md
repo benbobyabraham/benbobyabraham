@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
-<a href="https://benboby.com/" target="_blank" rel="noreferrer"> PERSONAL WEBSITE </a>
+<h3 align="center" style="color: #0060B6; text-decoration: none;"><a href="https://benboby.com/" target="_blank" rel="noreferrer">PERSONAL WEBSITE</a></h3>
 
 
 

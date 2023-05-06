@@ -4,6 +4,9 @@
 
 - 🔭 I’m currently working on Machine Learning , and Big data analysis, also DJANGO AND REACT
 - 🌱 I’m currently learning mobile application development in FLUTTER
+- 📫 Reach me at benbobyabraham@gmail.com or +91-8547197319
+- 📍 I'm located in Bangalore
+
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -12,8 +15,7 @@
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on something _AWESOME_
 - 🌱 I'm currently learning REACT and DJANGO -->
-- 📫 Reach me at benbobyabraham@gmail.com or +91-8547197319
-- 📍 I'm located in Bangalore
+
 
 ---
 

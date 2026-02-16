@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://benboby.com/" target="_blank">Portfolio</a> •
 <a href="https://www.linkedin.com/in/ben-boby/" target="_blank">LinkedIn</a> •
-<a href="https://github.com/benbobyabraham" target="_blank">GitHub</a>
+<a href="https://x.com/BenBoby5" target="_blank">Twitter / X</a>
 </p>
 
 ---

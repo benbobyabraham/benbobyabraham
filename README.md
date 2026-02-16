@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-<a href="https://benboby.com" target="_blank">Portfolio</a> •
-<a href="https://linkedin.com/in/benbobyabraham" target="_blank">LinkedIn</a> •
+<a href="https://benboby.com/" target="_blank">Portfolio</a> •
+<a href="https://www.linkedin.com/in/ben-boby/" target="_blank">LinkedIn</a> •
 <a href="https://github.com/benbobyabraham" target="_blank">GitHub</a>
 </p>
 
